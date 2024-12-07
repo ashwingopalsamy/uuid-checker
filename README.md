@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/ashwingopalsamy/uuidcheck.svg)](https://pkg.go.dev/github.com/ashwingopalsamy/uuidcheck)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ashwingopalsamy/uuidcheck)](https://goreportcard.com/report/github.com/ashwingopalsamy/uuidcheck)
-[![Coverage Status](https://codecov.io/gh/ashwingopalsamy/uuidcheck/branch/main/graph/badge.svg)](https://codecov.io/gh/ashwingopalsamy/uuidcheck)
+[![Coverage Status](https://codecov.io/gh/ashwingopalsamy/uuidcheck/branch/master/graph/badge.svg)](https://codecov.io/gh/ashwingopalsamy/uuidcheck)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
@@ -61,10 +61,9 @@ You'll find unit tests and edge case scenarios in `uuidcheck_test.go`.
 
 ## Contributing
 
-Contributions are welcome!  
+Contributions are welcome!
 Feel free to open issues, submit PRs, or propose features. Just keep it simple and aligned with the library’s goal: blazing-fast, straightforward UUID validation.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
