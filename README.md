@@ -1,6 +1,7 @@
 # uuidcheck
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/ashwingopalsamy/uuidcheck.svg)](https://pkg.go.dev/github.com/ashwingopalsamy/uuidcheck)
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/ashwingopalsamy/uuidcheck)](https://goreportcard.com/report/github.com/ashwingopalsamy/uuidcheck)
 [![Coverage Status](https://codecov.io/gh/ashwingopalsamy/uuidcheck/branch/master/graph/badge.svg)](https://codecov.io/gh/ashwingopalsamy/uuidcheck)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
